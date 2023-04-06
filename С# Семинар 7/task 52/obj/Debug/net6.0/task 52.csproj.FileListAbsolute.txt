@@ -1,0 +1,15 @@
+C:\Users\Sotosh\OneDrive\Рабочий стол\С# Семинар 7\task 52\bin\Debug\net6.0\task 52.exe
+C:\Users\Sotosh\OneDrive\Рабочий стол\С# Семинар 7\task 52\bin\Debug\net6.0\task 52.deps.json
+C:\Users\Sotosh\OneDrive\Рабочий стол\С# Семинар 7\task 52\bin\Debug\net6.0\task 52.runtimeconfig.json
+C:\Users\Sotosh\OneDrive\Рабочий стол\С# Семинар 7\task 52\bin\Debug\net6.0\task 52.dll
+C:\Users\Sotosh\OneDrive\Рабочий стол\С# Семинар 7\task 52\bin\Debug\net6.0\task 52.pdb
+C:\Users\Sotosh\OneDrive\Рабочий стол\С# Семинар 7\task 52\obj\Debug\net6.0\task 52.csproj.AssemblyReference.cache
+C:\Users\Sotosh\OneDrive\Рабочий стол\С# Семинар 7\task 52\obj\Debug\net6.0\task 52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sotosh\OneDrive\Рабочий стол\С# Семинар 7\task 52\obj\Debug\net6.0\task 52.AssemblyInfoInputs.cache
+C:\Users\Sotosh\OneDrive\Рабочий стол\С# Семинар 7\task 52\obj\Debug\net6.0\task 52.AssemblyInfo.cs
+C:\Users\Sotosh\OneDrive\Рабочий стол\С# Семинар 7\task 52\obj\Debug\net6.0\task 52.csproj.CoreCompileInputs.cache
+C:\Users\Sotosh\OneDrive\Рабочий стол\С# Семинар 7\task 52\obj\Debug\net6.0\task 52.dll
+C:\Users\Sotosh\OneDrive\Рабочий стол\С# Семинар 7\task 52\obj\Debug\net6.0\refint\task 52.dll
+C:\Users\Sotosh\OneDrive\Рабочий стол\С# Семинар 7\task 52\obj\Debug\net6.0\task 52.pdb
+C:\Users\Sotosh\OneDrive\Рабочий стол\С# Семинар 7\task 52\obj\Debug\net6.0\task 52.genruntimeconfig.cache
+C:\Users\Sotosh\OneDrive\Рабочий стол\С# Семинар 7\task 52\obj\Debug\net6.0\ref\task 52.dll
